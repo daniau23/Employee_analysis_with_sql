@@ -57,7 +57,10 @@ This projec was accomplished using SQL for data analysis, feature enegineering a
 	- One of Chile's branches  amongst other countries has the lowest revenue generated 
 	- Kuwait has the highest average revenue generated
 
-
 *NB:* Currency is in dollars and use the code format below to insert values for each table using SQL Shell (psql);
 
 ```\copy employee_details (employee_id, FIRStname, Lst_namE, EmaIL, gender,placeOFBirTH, "PositiON",salArY,Date_hired, "Material Status", CAr_owned, HOuse_owneDD) FROM 'C:\\file_path\\employee_details_salary_added.csv' WITH CSV HEADER DELIMITER ',';```
+
+Resource materials:
+- [Resource1](https://www.postgresqltutorial.com/)
+- [Resource2](https://www.postgresql.org/docs/current/index.html)
