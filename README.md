@@ -1,6 +1,6 @@
 # **Employee Analysis**
 
-This projec was accomplished using SQL for data analysis, feature enegineering and data preprocessing.
+This project was accomplished using SQL for data analysis, feature enegineering and data preprocessing.
 
 ### **Techniques used:**
 - SQL funtions
